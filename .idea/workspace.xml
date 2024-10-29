@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d80fb64-4474-4a3e-a31f-aca86e7a4143" name="Changes" comment="commit init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0d80fb64-4474-4a3e-a31f-aca86e7a4143" name="Changes" comment="commit init1">
+      <change beforePath="$PROJECT_DIR$/src/TestConflict.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestConflict.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1730191838526</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit init1">
+      <created>1730192961637</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730192961637</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit init" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit init" />
+    <MESSAGE value="commit init1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit init1" />
   </component>
 </project>
